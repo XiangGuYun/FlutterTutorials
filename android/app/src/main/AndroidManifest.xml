@@ -1,7 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.flutterdev.flutterdev">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
    <application
         android:label="flutterdev"
+       android:usesCleartextTraffic="true"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

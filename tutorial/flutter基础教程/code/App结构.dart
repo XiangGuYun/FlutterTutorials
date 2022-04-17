@@ -16,6 +16,7 @@ class AppStructureApp extends StatelessWidget{
         primaryColor: Colors.black
       ),
       home: const AppStructurePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 
@@ -39,6 +40,11 @@ class AppStructureState extends State<AppStructurePage>{
     return Scaffold(
       appBar: AppBar(
         title: const Text("首页"),
+        leading: const Icon(Icons.menu),
+        actions: const [
+          Icon(Icons.settings)
+        ],
+        elevation: 0.0,
       ),
       body: const Center(
         child: Text("Hello World"),
