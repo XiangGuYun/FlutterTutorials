@@ -48,6 +48,15 @@
 
 <br>
 
+### 补充
+1. 使用git status查看修改但未被stage的文件
+![](img/c5c1cf3f.png)
+
+2. 一个个复制并add进来
+![](img/9c2429c1.png)
+
+3. 再次使用status，文件已被stage，并显示绿色
+![](img/a147a874.png)
 ***
 ## 推送改动
 你的改动现在已经在本地仓库的 HEAD 中了。
