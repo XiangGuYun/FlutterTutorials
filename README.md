@@ -78,3 +78,13 @@
    10. [CustomScrollView 和 Slivers](tutorial/flutter实战/05.%20可滚动组件/01.%20可滚动组件简介.md)
    11. [自定义 Sliver](tutorial/flutter实战/05.%20可滚动组件/01.%20可滚动组件简介.md)
    12. [嵌套可滚动组件 NestedScrollView](tutorial/flutter实战/05.%20可滚动组件/01.%20可滚动组件简介.md)
+#### 6. 功能型组件
+   1. [导航返回拦截（WillPopScope）](tutorial/flutter实战/06.%20功能型组件/01.%20导航返回拦截（WillPopScope）.md)
+   2. [数据共享（InheritedWidget）](tutorial/flutter实战/06.%20功能型组件/02.%20数据共享（InheritedWidget）.md)
+   3. [跨组件状态共享（Provider）](tutorial/flutter实战/06.%20功能型组件/03.%20跨组件状态共享（Provider）.md)
+   4. [颜色和主题](tutorial/flutter实战/06.%20功能型组件/04.%20颜色和主题.md)
+   5. [ValueListenableBuilder](tutorial/flutter实战/06.%20功能型组件/05.%20ValueListenableBuilder.md)
+   6. [异步UI更新（FutureBuilder、StreamBuilder）](tutorial/flutter实战/06.%20功能型组件/06.%20异步UI更新（FutureBuilder、StreamBuilder）.md)
+   7. [对话框详解](tutorial/flutter实战/06.%20功能型组件/07.%20对话框详解.md)
+#### 7. 事件处理与通知
+   1. [原始指针事件处理](tutorial/flutter实战/07.%20事件处理与通知/01.%20原始指针事件处理.md)
